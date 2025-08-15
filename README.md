@@ -1,1 +1,2 @@
-![My Stats](https://adiletbaimyrza.github.io/stats/stats.svg)
+
+## Hi there 👋, my name is Adilet Baimyrza
